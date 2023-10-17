@@ -1,0 +1,14 @@
+/home/rony/git/ronymmoura/csharp-threads/bin/Debug/net7.0/csharp-threads
+/home/rony/git/ronymmoura/csharp-threads/bin/Debug/net7.0/csharp-threads.deps.json
+/home/rony/git/ronymmoura/csharp-threads/bin/Debug/net7.0/csharp-threads.runtimeconfig.json
+/home/rony/git/ronymmoura/csharp-threads/bin/Debug/net7.0/csharp-threads.dll
+/home/rony/git/ronymmoura/csharp-threads/bin/Debug/net7.0/csharp-threads.pdb
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.AssemblyInfoInputs.cache
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.AssemblyInfo.cs
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.csproj.CoreCompileInputs.cache
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.dll
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/refint/csharp-threads.dll
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.pdb
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/csharp-threads.genruntimeconfig.cache
+/home/rony/git/ronymmoura/csharp-threads/obj/Debug/net7.0/ref/csharp-threads.dll
