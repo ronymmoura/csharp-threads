@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Started!");
+﻿var watch = System.Diagnostics.Stopwatch.StartNew();
+
+Console.WriteLine("Started!");
 
 var numThreads = 2;
 var threadPool = new Dictionary<string, Thread>();
@@ -19,7 +21,7 @@ for (int i = 0; i < numThreads; i++)
 while (threadPool.Count > 0)
     continue;
 
-Console.WriteLine("Ended!");
+Console.WriteLine($"Ended in {watch.Elapsed.TotalSeconds} seconds");
 
 void doThings(string threadId, int[] chunk)
 {
